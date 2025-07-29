@@ -1,0 +1,5 @@
+# Desafio 1 - Cálculo de receita total diária
+almoco = 13360.20
+jantar = 7631.14
+receita_total = almoco + jantar
+print("receita_total_do_dia: R$ {receita_total}")
