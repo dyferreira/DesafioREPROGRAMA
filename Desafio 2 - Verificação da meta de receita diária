@@ -1,0 +1,9 @@
+# Desafio 2 - Verificação da meta de receita diária
+# Meta de receita diária = R$ 8000,00
+# receita_total = R$ 20991,34
+
+receita_total = 20991.34
+if receita_total >= 8000:
+    print("Parabéns! Você atingiu a meta de receita diária.")
+else:
+    print("Infelizmente, você não atingiu a meta de receita diária.")
